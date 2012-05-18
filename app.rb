@@ -14,7 +14,8 @@ end
 get '/near' do
 	content_type :json
 
-	@conn = Mongo::Connection.new
+	@uri = URI.parse(ENV['MONGOLAB_URI'])
+	@conn = Mongo::Connection.from_uri(ENV['MONGOLAB_URI'])
 	@db   = @conn['artmap']
 	@coll = @db['boston_public_art']
 

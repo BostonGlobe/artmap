@@ -1,6 +1,7 @@
 require 'rubygems'
 require 'mongo'
 require 'json'
+require 'uri'
 
 DATA_FILE = 'data/boston_public_art_refined.json'
 
@@ -9,8 +10,9 @@ docs = boston_art_json['docs']
 
 puts "Loaded #{docs.length} records"
 
-conn = Mongo::Connection.new
-db   = conn['artmap']
+uri = URI.parse(ENV['MONGOLAB_URI'])
+conn = Mongo::Connection.from_uri(ENV['MONGOLAB_URI'])
+db   = conn.db(uri.path.gsub(/^\//, ''))
 coll = db['boston_public_art']
 
 # make a spatial element so mongo can index on it
