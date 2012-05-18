@@ -2,6 +2,7 @@ require 'rubygems'
 require 'mongo'
 require 'sinatra'
 require 'json'
+require 'uri'
 
 require "sinatra/reloader" if development?
 
