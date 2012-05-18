@@ -7,13 +7,9 @@
         </title>
         <link rel="stylesheet" href="http://code.jquery.com/mobile/1.1.0/jquery.mobile-1.1.0.min.css" />
         <link rel="stylesheet" href="mobile.css" />
-        <style>
-            /* App custom styles */
-        </style>
-        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js">
-        </script>
-        <script src="http://code.jquery.com/mobile/1.1.0/jquery.mobile-1.1.0.min.js">
-        </script>
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+        <script src="http://code.jquery.com/mobile/1.1.0/jquery.mobile-1.1.0.min.js"></script>
+        <script src="geo-min.js"></script>
     </head>
     <body>
         <div data-role="page" id="page1">
@@ -31,32 +27,39 @@
             </div>
         </div>
 
-        <div data-role="page" id="page2">
-            <div data-theme="c" data-role="header">
-                <h3>
-                    Boston Art
-                </h3>
-            </div>
-            <div data-role="content">
-                <p>
-                    This is the second page.
-                </p>
-            </div>
-        </div>
-
         <script>
             $(document).ready(function() {
-                $.getJSON('/near?lat=42.383088&lon=-71.029731', function(data) {
+                if(geo_position_js.init()){
+                    geo_position_js.getCurrentPosition(getData,error_callback,{enableHighAccuracy:true});
+                }
+                else{
+                    alert("Functionality not available");
+                }
+            })
+
+            function error_callback(p)
+            {
+                alert('error='+p.message);
+            }       
+
+
+            function getData(p) 
+            {
+                var lat = p.coords.latitude
+                var lon = p.coords.longitude
+
+                $.getJSON('/near?lat='+lat+'&lon='+lon, function(data) {
                     var count = 0
                     $.each( data, function(i, res) {
-                        var list = '<li><a href="#page_' + i + '">' + res.obj.title + '</a></li>'
+                        var distance = res.dis * 3959
+                        var list = '<li><a href="#page_' + i + '">(' + distance.toFixed(2) + 'mi) ' + res.obj.title + '</a></li>'
                         var page = '<div data-add-back-btn="true" data-role="page" id="page_' + i + '"><div data-theme="c" data-role="header">'
                                     + '<h3>' + res.obj.title + '</h3></div>'
                                     + '<div data-role="content">'
                                     + '<h3><a target="_new" href="http://publicartboston.com/node/' + res.obj.rmt + '">' + res.obj.title + '</a></h3>'
                                     + '<h3>Artist</h3><p>' + res.obj.artist + '</p>'
-                                    + '<h3>Location</h3><p>' + res.obj.location_description + ' '
-                                    + '<a target="_new" href="http://maps.google.com/?q=' + res.obj.longitude + ',' + res.obj.latitude + '">map</a></p>'
+                                    + '<h3>Location</h3><p>' + res.obj.location_description + '<br />' + distance.toFixed(2) + 'mi away, ' 
+                                    + '<a target="_new" href="http://maps.google.com/?q=' + res.obj.latitude + ',' + res.obj.longitude + '">map</a></p>'
                                     + '<h3>Neighborhood</h3><p>' + res.obj.neighborhood + '</p>'
                                     + '<h3>Type</h3><p>' + res.obj.discipline + '</p>'
                                     + '<h3>Year</h3><p>' + res.obj.year + '</p>'
@@ -78,23 +81,7 @@
 
                     $("#listview").listview('refresh')
                 })
-
-
-
-                // $("#listview").append('<li><a href="#page3">Dynamic</a></li>')
-                // $('body').append('<div data-role="page" id="page3"><div data-role="content">Hi</div></div>')
-                // $("#listview").listview('refresh')
-            })
-
-
-            // $(document).ready(function() {
-            //     navigator.geolocation.getCurrentPosition(handle_geolocation_query);  
-            // })
-
-            // function handle_geolocation_query(position){  
-            //     alert('Lat: ' + position.coords.latitude + ' ' +  
-            //           'Lon: ' + position.coords.latitude);  
-            // }  
+            }
         </script>
     </body>
 </html>
