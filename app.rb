@@ -16,7 +16,7 @@ get '/near' do
 
 	@uri = URI.parse(ENV['MONGOLAB_URI'])
 	@conn = Mongo::Connection.from_uri(ENV['MONGOLAB_URI'])
-	@db   = @conn['artmap']
+	@db   = @conn.db(uri.path.gsub(/^\//, ''))
 	@coll = @db['boston_public_art']
 
 	@lat = params[:lat].to_f
