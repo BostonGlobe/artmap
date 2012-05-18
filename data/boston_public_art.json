@@ -1,0 +1,2935 @@
+[{
+    "rmt": "179/0",
+    "latitude": "42.361712",
+    "longitude": "-71.052210",
+    "markername": "yellow",
+    "opts": {
+        "title": "Our Shore - Ah Sure"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "180/0",
+    "latitude": "42.362714",
+    "longitude": "-71.138425",
+    "markername": "yellow",
+    "opts": {
+        "title": "Stripe-ahs"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "377/0",
+    "latitude": "42.360185",
+    "longitude": "-71.052436",
+    "markername": "lblue",
+    "opts": {
+        "title": "Nature Special, curated by deCordova Sculpture Park and Museum"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "181/0",
+    "latitude": "42.334121",
+    "longitude": "-71.076061",
+    "markername": "yellow",
+    "opts": {
+        "title": "Urban Oasis"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "231/0",
+    "latitude": "42.286808",
+    "longitude": "-71.130812",
+    "markername": "pink",
+    "opts": {
+        "title": "Traffic"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "39/0",
+    "latitude": "42.353434",
+    "longitude": "-71.072465",
+    "markername": "orange",
+    "opts": {
+        "title": "Alexander Hamilton"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "40/0",
+    "latitude": "42.357817",
+    "longitude": "-71.064350",
+    "markername": "orange",
+    "opts": {
+        "title": "Anne Hutchinson"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "41/0",
+    "latitude": "42.355084",
+    "longitude": "-71.056320",
+    "markername": "orange",
+    "opts": {
+        "title": "Anti-Ram Bench"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "42/0",
+    "latitude": "42.359985",
+    "longitude": "-71.054217",
+    "markername": "orange",
+    "opts": {
+        "title": "Arnold \"Red\" Auerbach"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "43/0",
+    "latitude": "42.349476",
+    "longitude": "-71.077345",
+    "markername": "orange",
+    "opts": {
+        "title": "Art and Science"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "44/0",
+    "latitude": "42.356455",
+    "longitude": "-71.075490",
+    "markername": "orange",
+    "opts": {
+        "title": "Arthur Fiedler Memorial"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "45/0",
+    "latitude": "42.361955",
+    "longitude": "-71.056738",
+    "markername": "orange",
+    "opts": {
+        "title": "Asaroton"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "46/0",
+    "latitude": "42.349293",
+    "longitude": "-71.090300",
+    "markername": "orange",
+    "opts": {
+        "title": "Ayer Mansion Windows"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "47/0",
+    "latitude": "42.353959",
+    "longitude": "-71.068920",
+    "markername": "orange",
+    "opts": {
+        "title": "Bagheera Fountain"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "48/0",
+    "latitude": "42.355084",
+    "longitude": "-71.056320",
+    "markername": "orange",
+    "opts": {
+        "title": "Beacon Hill Eagle Monument"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "49/0",
+    "latitude": "42.357870",
+    "longitude": "-71.059500",
+    "markername": "orange",
+    "opts": {
+        "title": "Benjamin Franklin"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "50/0",
+    "latitude": "42.354748",
+    "longitude": "-71.058520",
+    "markername": "orange",
+    "opts": {
+        "title": "Boston Bricks"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "51/0",
+    "latitude": "42.357337",
+    "longitude": "-71.058650",
+    "markername": "orange",
+    "opts": {
+        "title": "Boston Irish Famine Memorial"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "52/0",
+    "latitude": "42.350086",
+    "longitude": "-71.076780",
+    "markername": "orange",
+    "opts": {
+        "title": "Boston Marathon Memorial"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "53/0",
+    "latitude": "42.354271",
+    "longitude": "-71.064410",
+    "markername": "orange",
+    "opts": {
+        "title": "Boston Massacre / Crispus Attucks Monument"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "54/0",
+    "latitude": "42.350487",
+    "longitude": "-71.083340",
+    "markername": "orange",
+    "opts": {
+        "title": "Boston Women's Memorial"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "55/0",
+    "latitude": "42.353626",
+    "longitude": "-71.071200",
+    "markername": "orange",
+    "opts": {
+        "title": "Boy and Bird Fountain"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "56/0",
+    "latitude": "42.356192",
+    "longitude": "-71.063100",
+    "markername": "orange",
+    "opts": {
+        "title": "Brewer Fountain"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "57/0",
+    "latitude": "42.355525",
+    "longitude": "-71.057620",
+    "markername": "orange",
+    "opts": {
+        "title": "Bronze Panels"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "58/0",
+    "latitude": "42.352415",
+    "longitude": "-71.069830",
+    "markername": "orange",
+    "opts": {
+        "title": "Charles Sumner"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "59/0",
+    "latitude": "42.361293",
+    "longitude": "-71.051188",
+    "markername": "orange",
+    "opts": {
+        "title": "Christopher Columbus"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "60/0",
+    "latitude": "42.357952",
+    "longitude": "-71.060016",
+    "markername": "orange",
+    "opts": {
+        "title": "City Carpet / Hopscotch"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "61/0",
+    "latitude": "42.352606",
+    "longitude": "-71.068813",
+    "markername": "orange",
+    "opts": {
+        "title": "Colonel Thomas Cass"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "62/0",
+    "latitude": "42.355826",
+    "longitude": "-71.063030",
+    "markername": "orange",
+    "opts": {
+        "title": "Commodore John Barry Memorial"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "63/0",
+    "latitude": "42.358030",
+    "longitude": "-71.062773",
+    "markername": "orange",
+    "opts": {
+        "title": "Congregational House Bas-Reliefs"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "64/0",
+    "latitude": "42.356514",
+    "longitude": "-71.055810",
+    "markername": "orange",
+    "opts": {
+        "title": "Creature Pond"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "65/0",
+    "latitude": "42.357799",
+    "longitude": "-71.063790",
+    "markername": "orange",
+    "opts": {
+        "title": "Daniel Webster"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "66/0",
+    "latitude": "42.357032",
+    "longitude": "-71.074270",
+    "markername": "orange",
+    "opts": {
+        "title": "David Ignatius Walsh"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "67/0",
+    "latitude": "42.355040",
+    "longitude": "-71.063630",
+    "markername": "orange",
+    "opts": {
+        "title": "Declaration of Independence Tablet"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "68/0",
+    "latitude": "42.357880",
+    "longitude": "-71.059840",
+    "markername": "orange",
+    "opts": {
+        "title": "Democratic Donkey"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "69/0",
+    "latitude": "42.349992",
+    "longitude": "-71.085190",
+    "markername": "orange",
+    "opts": {
+        "title": "Domingo Faustino Sarmiento"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "70/0",
+    "latitude": "42.354505",
+    "longitude": "-71.068780",
+    "markername": "orange",
+    "opts": {
+        "title": "Edward Everett Hale"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "71/0",
+    "latitude": "42.354828",
+    "longitude": "-71.071470",
+    "markername": "orange",
+    "opts": {
+        "title": "Ether Monument / Good Samaritan"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "72/0",
+    "latitude": "42.353541",
+    "longitude": "-71.068610",
+    "markername": "orange",
+    "opts": {
+        "title": "Flagpole Base and Marvin E. Goody Memorial"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "73/0",
+    "latitude": "42.356488",
+    "longitude": "-71.067593",
+    "markername": "orange",
+    "opts": {
+        "title": "Founders Memorial"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "74/0",
+    "latitude": "42.356092",
+    "longitude": "-71.064700",
+    "markername": "orange",
+    "opts": {
+        "title": "Frogs of Tadpole Playground"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "75/0",
+    "latitude": "42.360008",
+    "longitude": "-71.061740",
+    "markername": "orange",
+    "opts": {
+        "title": "Garden of Peace"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "76/0",
+    "latitude": "42.352790",
+    "longitude": "-71.070890",
+    "markername": "orange",
+    "opts": {
+        "title": "Garden of Rememberance: 9/11 Memorial"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "77/0",
+    "latitude": "42.357775",
+    "longitude": "-71.073217",
+    "markername": "orange",
+    "opts": {
+        "title": "General Charles Devens"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "78/0",
+    "latitude": "42.357408",
+    "longitude": "-71.073979",
+    "markername": "orange",
+    "opts": {
+        "title": "General George Smith Patton, Jr."
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "79/0",
+    "latitude": "42.352814",
+    "longitude": "-71.074748",
+    "markername": "orange",
+    "opts": {
+        "title": "General John Glover"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "80/0",
+    "latitude": "42.357960",
+    "longitude": "-71.063120",
+    "markername": "orange",
+    "opts": {
+        "title": "General Joseph Hooker"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "81/0",
+    "latitude": "42.355353",
+    "longitude": "-71.072139",
+    "markername": "orange",
+    "opts": {
+        "title": "George Robert White Memorial"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "82/0",
+    "latitude": "42.353836",
+    "longitude": "-71.070964",
+    "markername": "orange",
+    "opts": {
+        "title": "George Washington"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "83/0",
+    "latitude": "42.360036",
+    "longitude": "-71.056100",
+    "markername": "orange",
+    "opts": {
+        "title": "Grasshopper Weathervane"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "84/0",
+    "latitude": "42.357103",
+    "longitude": "-71.050968",
+    "markername": "orange",
+    "opts": {
+        "title": "Harbor Fog"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "85/0",
+    "latitude": "42.359999",
+    "longitude": "-71.056880",
+    "markername": "orange",
+    "opts": {
+        "title": "Harbor Shoreline"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "86/0",
+    "latitude": "42.357912",
+    "longitude": "-71.063760",
+    "markername": "orange",
+    "opts": {
+        "title": "Henry Cabot Lodge"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "87/0",
+    "latitude": "42.357904",
+    "longitude": "-71.063760",
+    "markername": "orange",
+    "opts": {
+        "title": "Horace Mann"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "88/0",
+    "latitude": "42.361426",
+    "longitude": "-71.060952",
+    "markername": "orange",
+    "opts": {
+        "title": "Human Element"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "89/0",
+    "latitude": "42.357863",
+    "longitude": "-71.055090",
+    "markername": "orange",
+    "opts": {
+        "title": "Hungarian Revolution \"Freedom Fighters\" Memorial"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "90/0",
+    "latitude": "42.356536",
+    "longitude": "-71.055815",
+    "markername": "orange",
+    "opts": {
+        "title": "Immanent Circumstance"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "91/0",
+    "latitude": "42.354374",
+    "longitude": "-71.070290",
+    "markername": "orange",
+    "opts": {
+        "title": "Japanese Lantern"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "92/0",
+    "latitude": "42.357961",
+    "longitude": "-71.064117",
+    "markername": "orange",
+    "opts": {
+        "title": "John Fitzgerald Kennedy"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "93/0",
+    "latitude": "42.350105",
+    "longitude": "-71.076561",
+    "markername": "orange",
+    "opts": {
+        "title": "John Singleton Copley"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "94/0",
+    "latitude": "42.357794",
+    "longitude": "-71.059510",
+    "markername": "orange",
+    "opts": {
+        "title": "Josiah Quincy"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "95/0",
+    "latitude": "42.349511",
+    "longitude": "-71.076814",
+    "markername": "orange",
+    "opts": {
+        "title": "Kahlil Gibran Memorial"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "96/0",
+    "latitude": "42.358342",
+    "longitude": "-71.060040",
+    "markername": "orange",
+    "opts": {
+        "title": "King's Chapel Burying Ground Plaque"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "97/0",
+    "latitude": "42.349016",
+    "longitude": "-71.091364",
+    "markername": "orange",
+    "opts": {
+        "title": "Leif Eriksson"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "98/0",
+    "latitude": "42.359338",
+    "longitude": "-71.052102",
+    "markername": "orange",
+    "opts": {
+        "title": "Light Blades"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "99/0",
+    "latitude": "42.355502",
+    "longitude": "-71.069751",
+    "markername": "orange",
+    "opts": {
+        "title": "Make Way for Ducklings"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "100/0",
+    "latitude": "42.353541",
+    "longitude": "-71.068610",
+    "markername": "orange",
+    "opts": {
+        "title": "Marvin E. Goody Memorial"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "101/0",
+    "latitude": "42.358044",
+    "longitude": "-71.062890",
+    "markername": "orange",
+    "opts": {
+        "title": "Mary Dyer"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "102/0",
+    "latitude": "42.360992",
+    "longitude": "-71.052178",
+    "markername": "orange",
+    "opts": {
+        "title": "Massachusetts Beirut Memorial"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "103/0",
+    "latitude": "42.359230",
+    "longitude": "-71.063320",
+    "markername": "orange",
+    "opts": {
+        "title": "Massachusetts Fallen Firefighters Memorial"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "104/0",
+    "latitude": "42.359265",
+    "longitude": "-71.063350",
+    "markername": "orange",
+    "opts": {
+        "title": "Massachusetts Law Enforcement Memorial"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "105/0",
+    "latitude": "42.357178",
+    "longitude": "-71.074180",
+    "markername": "orange",
+    "opts": {
+        "title": "Maurice J. Tobin"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "106/0",
+    "latitude": "42.360508",
+    "longitude": "-71.057010",
+    "markername": "orange",
+    "opts": {
+        "title": "Mayor James Michael Curley"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "107/0",
+    "latitude": "42.359847",
+    "longitude": "-71.058240",
+    "markername": "orange",
+    "opts": {
+        "title": "Mayor John Frederick Collins"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "108/0",
+    "latitude": "42.360211",
+    "longitude": "-71.056740",
+    "markername": "orange",
+    "opts": {
+        "title": "Mayor Kevin White"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "109/0",
+    "latitude": "42.356140",
+    "longitude": "-71.064646",
+    "markername": "orange",
+    "opts": {
+        "title": "Mosaics in Tadpole Playground"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "110/0",
+    "latitude": "42.359289",
+    "longitude": "-71.059680",
+    "markername": "orange",
+    "opts": {
+        "title": "Nancy, A Passage of Time"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "111/0",
+    "latitude": "42.361286",
+    "longitude": "-71.057270",
+    "markername": "orange",
+    "opts": {
+        "title": "New England Holocaust Memorial"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "112/0",
+    "latitude": "42.363959",
+    "longitude": "-71.055020",
+    "markername": "orange",
+    "opts": {
+        "title": "North End Library Mosaics"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "113/0",
+    "latitude": "42.356507",
+    "longitude": "-71.067590",
+    "markername": "orange",
+    "opts": {
+        "title": "Oneida Football Tablet"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "114/0",
+    "latitude": "42.347941",
+    "longitude": "-71.076685",
+    "markername": "orange",
+    "opts": {
+        "title": "Paint and Henry"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "115/0",
+    "latitude": "42.355335",
+    "longitude": "-71.063630",
+    "markername": "orange",
+    "opts": {
+        "title": "Learning, Religion and Industry"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "116/0",
+    "latitude": "42.352240",
+    "longitude": "-71.076880",
+    "markername": "orange",
+    "opts": {
+        "title": "Patrick Andrew Collins"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "117/0",
+    "latitude": "42.365558",
+    "longitude": "-71.053230",
+    "markername": "orange",
+    "opts": {
+        "title": "Paul Revere"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "118/0",
+    "latitude": "42.350176",
+    "longitude": "-71.075567",
+    "markername": "orange",
+    "opts": {
+        "title": "Philips Brooks"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "119/0",
+    "latitude": "42.354103",
+    "longitude": "-71.069949",
+    "markername": "orange",
+    "opts": {
+        "title": "Public Garden Footbridge"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "120/0",
+    "latitude": "42.348128",
+    "longitude": "-71.082991",
+    "markername": "orange",
+    "opts": {
+        "title": "Quest Eternal"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "121/0",
+    "latitude": "42.360540",
+    "longitude": "-71.052778",
+    "markername": "orange",
+    "opts": {
+        "title": "The Reading Circle"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "122/0",
+    "latitude": "42.354850",
+    "longitude": "-71.057649",
+    "markername": "orange",
+    "opts": {
+        "title": "Robert Burns"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "123/0",
+    "latitude": "42.357485",
+    "longitude": "-71.063500",
+    "markername": "orange",
+    "opts": {
+        "title": "Robert Gould Shaw and the 54th Regiment"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "124/0",
+    "latitude": "42.359981",
+    "longitude": "-71.056690",
+    "markername": "orange",
+    "opts": {
+        "title": "Samuel Adams"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "125/0",
+    "latitude": "42.351173",
+    "longitude": "-71.080834",
+    "markername": "orange",
+    "opts": {
+        "title": "Samuel Eliot Morison"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "126/0",
+    "latitude": "42.353619",
+    "longitude": "-71.071202",
+    "markername": "orange",
+    "opts": {
+        "title": "Small Child Fountain"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "127/0",
+    "latitude": "42.355457",
+    "longitude": "-71.066400",
+    "markername": "orange",
+    "opts": {
+        "title": "Soldiers' and Sailors' Monument"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "128/0",
+    "latitude": "42.363037",
+    "longitude": "-71.059088",
+    "markername": "orange",
+    "opts": {
+        "title": "Sudden Presence"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "129/0",
+    "latitude": "42.352546",
+    "longitude": "-71.069090",
+    "markername": "orange",
+    "opts": {
+        "title": "Tadeusz Kasociuszko"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "130/0",
+    "latitude": "42.360962",
+    "longitude": "-71.059651",
+    "markername": "orange",
+    "opts": {
+        "title": "Thermopylae"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "131/0",
+    "latitude": "42.349982",
+    "longitude": "-71.076117",
+    "markername": "orange",
+    "opts": {
+        "title": "Tortoise and the Hare"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "132/0",
+    "latitude": "42.355065",
+    "longitude": "-71.077730",
+    "markername": "orange",
+    "opts": {
+        "title": "Trimbloid X"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "133/0",
+    "latitude": "42.354639",
+    "longitude": "-71.069440",
+    "markername": "orange",
+    "opts": {
+        "title": "Triton Babies Foundation"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "134/0",
+    "latitude": "42.358712",
+    "longitude": "-71.057462",
+    "markername": "orange",
+    "opts": {
+        "title": "Unicorn and Lion"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "135/0",
+    "latitude": "42.351984",
+    "longitude": "-71.077801",
+    "markername": "orange",
+    "opts": {
+        "title": "Vendome Fire Memorial"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "136/0",
+    "latitude": "42.360938",
+    "longitude": "-71.062159",
+    "markername": "orange",
+    "opts": {
+        "title": "Wall Drawing #1128"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "137/0",
+    "latitude": "42.352696",
+    "longitude": "-71.068320",
+    "markername": "orange",
+    "opts": {
+        "title": "Wendell Phillips"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "138/0",
+    "latitude": "42.352162",
+    "longitude": "-71.070680",
+    "markername": "orange",
+    "opts": {
+        "title": "William Ellery Channing"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "139/0",
+    "latitude": "42.351662",
+    "longitude": "-71.079058",
+    "markername": "orange",
+    "opts": {
+        "title": "William Lloyd Garrison Memorial"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "140/0",
+    "latitude": "42.360027",
+    "longitude": "-71.128250",
+    "markername": "orange",
+    "opts": {
+        "title": "Honan-Allston Bike Racks and Tree Guards"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "141/0",
+    "latitude": "42.356967",
+    "longitude": "-71.129580",
+    "markername": "orange",
+    "opts": {
+        "title": "Lincoln Street Green Strip"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "142/0",
+    "latitude": "42.376843",
+    "longitude": "-71.056800",
+    "markername": "orange",
+    "opts": {
+        "title": "Sundial"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "144/0",
+    "latitude": "42.351221",
+    "longitude": "-71.059734",
+    "markername": "orange",
+    "opts": {
+        "title": "Foo Dogs: Chinatown"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "145/0",
+    "latitude": "42.282580",
+    "longitude": "-71.105660",
+    "markername": "orange",
+    "opts": {
+        "title": "Foo Dogs: Mt. Hope"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "146/0",
+    "latitude": "42.349621",
+    "longitude": "-71.063240",
+    "markername": "orange",
+    "opts": {
+        "title": "FAO Schwartz Bear"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "147/0",
+    "latitude": "42.320230",
+    "longitude": "-71.061488",
+    "markername": "orange",
+    "opts": {
+        "title": "Dorchester Voices/ Dorchester History"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "148/0",
+    "latitude": "42.319947",
+    "longitude": "-71.060810",
+    "markername": "orange",
+    "opts": {
+        "title": "Copenhagen Foundation"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "149/0",
+    "latitude": "42.283655",
+    "longitude": "-71.071278",
+    "markername": "orange",
+    "opts": {
+        "title": "Market Still Life"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "150/0",
+    "latitude": "42.383088",
+    "longitude": "-71.029731",
+    "markername": "orange",
+    "opts": {
+        "title": "Condor Street Urban Wild"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "151/0",
+    "latitude": "42.256808",
+    "longitude": "-71.122478",
+    "markername": "orange",
+    "opts": {
+        "title": "Hyde Park Plaques"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "152/0",
+    "latitude": "42.321665",
+    "longitude": "-71.110957",
+    "markername": "orange",
+    "opts": {
+        "title": "Taino Indians"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "153/0",
+    "latitude": "42.267518",
+    "longitude": "-71.094022",
+    "markername": "orange",
+    "opts": {
+        "title": "Rise / Gateway to Boston"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "155/0",
+    "latitude": "42.291843",
+    "longitude": "-71.117726",
+    "markername": "orange",
+    "opts": {
+        "title": "Words"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "156/0",
+    "latitude": "42.327543",
+    "longitude": "-71.083445",
+    "markername": "orange",
+    "opts": {
+        "title": "The Judge"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "157/0",
+    "latitude": "42.329087",
+    "longitude": "-71.085002",
+    "markername": "orange",
+    "opts": {
+        "title": "Faces of Dudley"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "158/0",
+    "latitude": "42.332483",
+    "longitude": "-71.084425",
+    "markername": "orange",
+    "opts": {
+        "title": "Helion / Lollipop"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "159/0",
+    "latitude": "42.323881",
+    "longitude": "-71.051403",
+    "markername": "orange",
+    "opts": {
+        "title": "James Brendan Connolly"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "160/0",
+    "latitude": "42.343454",
+    "longitude": "-71.077864",
+    "markername": "orange",
+    "opts": {
+        "title": "Step on Board / Harriet Tubman Memorial"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "161/0",
+    "latitude": "42.283369",
+    "longitude": "-71.157248",
+    "markername": "orange",
+    "opts": {
+        "title": "Mary Draper Fountain"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "162/0",
+    "latitude": "42.341883",
+    "longitude": "-71.073177",
+    "markername": "orange",
+    "opts": {
+        "title": "Betances Mural"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "163/0",
+    "latitude": "42.309414",
+    "longitude": "-71.115759",
+    "markername": "orange",
+    "opts": {
+        "title": "Soldiers Monument"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "164/0",
+    "latitude": "42.348146",
+    "longitude": "-71.039980",
+    "markername": "orange",
+    "opts": {
+        "title": "Aqueous Humour"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "165/0",
+    "latitude": "42.338588",
+    "longitude": "-71.095383",
+    "markername": "orange",
+    "opts": {
+        "title": "Walking Man"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "166/0",
+    "latitude": "42.339938",
+    "longitude": "-71.094965",
+    "markername": "orange",
+    "opts": {
+        "title": "Night and Day"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "167/0",
+    "latitude": "42.338784",
+    "longitude": "-71.093690",
+    "markername": "orange",
+    "opts": {
+        "title": "Appeal to the Great Spirit"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "168/0",
+    "latitude": "42.352870",
+    "longitude": "-71.131880",
+    "markername": "yellow",
+    "opts": {
+        "title": "Digital Humans"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "170/0",
+    "latitude": "42.363270",
+    "longitude": "-71.129862",
+    "markername": "yellow",
+    "opts": {
+        "title": "Wire"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "171/0",
+    "latitude": "42.364924",
+    "longitude": "-71.062275",
+    "markername": "yellow",
+    "opts": {
+        "title": "Celtics"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "172/0",
+    "latitude": "42.360466",
+    "longitude": "-71.050848",
+    "markername": "yellow",
+    "opts": {
+        "title": "Sparkly Seascape"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "173/0",
+    "latitude": "42.309727",
+    "longitude": "-71.115341",
+    "markername": "yellow",
+    "opts": {
+        "title": "Other recycling"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "174/0",
+    "latitude": "42.374049",
+    "longitude": "-71.052169",
+    "markername": "yellow",
+    "opts": {
+        "title": "\"Dude, recycling is wicked awesome!\""
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "175/0",
+    "latitude": "42.322640",
+    "longitude": "-71.104841",
+    "markername": "yellow",
+    "opts": {
+        "title": "Rama I"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "176/0",
+    "latitude": "42.346209",
+    "longitude": "-71.152281",
+    "markername": "yellow",
+    "opts": {
+        "title": "Untitled"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "177/0",
+    "latitude": "42.255803",
+    "longitude": "-71.121352",
+    "markername": "yellow",
+    "opts": {
+        "title": "Sunrise"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "178/0",
+    "latitude": "42.256517",
+    "longitude": "-71.123816",
+    "markername": "yellow",
+    "opts": {
+        "title": "Sunset"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "182/0",
+    "latitude": "42.349122",
+    "longitude": "-71.076963",
+    "markername": "yellow",
+    "opts": {
+        "title": "Urban Wilds"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "183/0",
+    "latitude": "42.355289",
+    "longitude": "-71.060598",
+    "markername": "yellow",
+    "opts": {
+        "title": "Urban Renewal"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "184/0",
+    "latitude": "42.272060",
+    "longitude": "-71.068182",
+    "markername": "yellow",
+    "opts": {
+        "title": "Express Your True Colors"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "185/0",
+    "latitude": "42.309727",
+    "longitude": "-71.115340",
+    "markername": "yellow",
+    "opts": {
+        "title": "Untitled (BLOCKHEAD)"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "186/0",
+    "latitude": "42.336174",
+    "longitude": "-71.046551",
+    "markername": "yellow",
+    "opts": {
+        "title": "Man Hole"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "187/0",
+    "latitude": "42.316943",
+    "longitude": "-71.104771",
+    "markername": "yellow",
+    "opts": {
+        "title": "Mapping"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "188/0",
+    "latitude": "42.300813",
+    "longitude": "-71.112826",
+    "markername": "yellow",
+    "opts": {
+        "title": "#1"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "189/0",
+    "latitude": "42.285480",
+    "longitude": "-71.091240",
+    "markername": "yellow",
+    "opts": {
+        "title": "Abstraction of Primary Colors"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "190/0",
+    "latitude": "42.286020",
+    "longitude": "-71.154915",
+    "markername": "yellow",
+    "opts": {
+        "title": "Untitled"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "191/0",
+    "latitude": "42.287629",
+    "longitude": "-71.151998",
+    "markername": "yellow",
+    "opts": {
+        "title": "House, Trees, Sky"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "192/0",
+    "latitude": "42.288917",
+    "longitude": "-71.134266",
+    "markername": "yellow",
+    "opts": {
+        "title": "Bricks"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "193/0",
+    "latitude": "42.352303",
+    "longitude": "-71.067338",
+    "markername": "yellow",
+    "opts": {
+        "title": "Poe"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "194/0",
+    "latitude": "42.312611",
+    "longitude": "-71.067016",
+    "markername": "yellow",
+    "opts": {
+        "title": "Art Deco Red Roof Cottage Landscape Fantasy"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "169/0",
+    "latitude": "42.349234",
+    "longitude": "-71.153006",
+    "markername": "yellow",
+    "opts": {
+        "title": "Chomp"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "196/0",
+    "latitude": "42.308216",
+    "longitude": "-71.065034",
+    "markername": "yellow",
+    "opts": {
+        "title": "Rainbow Dove"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "197/0",
+    "latitude": "42.363844",
+    "longitude": "-71.058700",
+    "markername": "yellow",
+    "opts": {
+        "title": "Celtics"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "198/0",
+    "latitude": "42.360547",
+    "longitude": "-71.060250",
+    "markername": "yellow",
+    "opts": {
+        "title": "So Much We Ignore III"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "199/0",
+    "latitude": "42.332947",
+    "longitude": "-71.092602",
+    "markername": "yellow",
+    "opts": {
+        "title": "Buildings of Birch"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "200/0",
+    "latitude": "42.331578",
+    "longitude": "-71.094592",
+    "markername": "yellow",
+    "opts": {
+        "title": "Skyline I"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "201/0",
+    "latitude": "42.364702",
+    "longitude": "-71.062305",
+    "markername": "yellow",
+    "opts": {
+        "title": "Celtics"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "202/0",
+    "latitude": "42.320224",
+    "longitude": "-71.110715",
+    "markername": "yellow",
+    "opts": {
+        "title": "Arts collage"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "203/0",
+    "latitude": "42.287834",
+    "longitude": "-71.047715",
+    "markername": "yellow",
+    "opts": {
+        "title": "Hands"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "204/0",
+    "latitude": "42.364320",
+    "longitude": "-71.059751",
+    "markername": "yellow",
+    "opts": {
+        "title": "Basketball"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "205/0",
+    "latitude": "42.315745",
+    "longitude": "-71.066627",
+    "markername": "yellow",
+    "opts": {
+        "title": "Flowers at Strand"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "206/0",
+    "latitude": "42.372816",
+    "longitude": "-71.035206",
+    "markername": "yellow",
+    "opts": {
+        "title": "Ducks"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "207/0",
+    "latitude": "42.294498",
+    "longitude": "-71.087833",
+    "markername": "yellow",
+    "opts": {
+        "title": "Adinkra (West African) symbols"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "208/0",
+    "latitude": "42.324682",
+    "longitude": "-71.074730",
+    "markername": "yellow",
+    "opts": {
+        "title": "Peace"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "209/0",
+    "latitude": "42.325079",
+    "longitude": "-71.074998",
+    "markername": "yellow",
+    "opts": {
+        "title": "Flower"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "210/0",
+    "latitude": "42.335913",
+    "longitude": "-71.038188",
+    "markername": "yellow",
+    "opts": {
+        "title": "Fizz"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "212/0",
+    "latitude": "42.364402",
+    "longitude": "-71.136190",
+    "markername": "yellow",
+    "opts": {
+        "title": "Boston Skyline on an Autumn Evening"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "213/0",
+    "latitude": "42.337087",
+    "longitude": "-71.149853",
+    "markername": "yellow",
+    "opts": {
+        "title": "Boston Skyline on a Hot Summer Day"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "214/0",
+    "latitude": "42.339891",
+    "longitude": "-71.150791",
+    "markername": "yellow",
+    "opts": {
+        "title": "Time Circles I"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "215/0",
+    "latitude": "42.308518",
+    "longitude": "-71.117680",
+    "markername": "yellow",
+    "opts": {
+        "title": "Fish Tank"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "216/0",
+    "latitude": "42.279010",
+    "longitude": "-71.054309",
+    "markername": "yellow",
+    "opts": {
+        "title": "Life Under the Leaves"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "217/0",
+    "latitude": "42.352386",
+    "longitude": "-71.062737",
+    "markername": "yellow",
+    "opts": {
+        "title": "Bamboo News"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "218/0",
+    "latitude": "42.350045",
+    "longitude": "-71.058873",
+    "markername": "yellow",
+    "opts": {
+        "title": "Winter"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "219/0",
+    "latitude": "42.290350",
+    "longitude": "-71.071794",
+    "markername": "yellow",
+    "opts": {
+        "title": "Untitled"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "221/0",
+    "latitude": "42.291173",
+    "longitude": "-71.075187",
+    "markername": "yellow",
+    "opts": {
+        "title": "Organic Birth II"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "222/0",
+    "latitude": "42.268449",
+    "longitude": "-71.094321",
+    "markername": "yellow",
+    "opts": {
+        "title": "Triple Deckers"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "223/0",
+    "latitude": "42.287947",
+    "longitude": "-71.077669",
+    "markername": "yellow",
+    "opts": {
+        "title": "Untitled "
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "224/0",
+    "latitude": "42.286503",
+    "longitude": "-71.127892",
+    "markername": "yellow",
+    "opts": {
+        "title": "Sunflower Box"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "235/0",
+    "latitude": "42.330645",
+    "longitude": "-71.092355",
+    "markername": "pink",
+    "opts": {
+        "title": "The Value of a Life"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "319/0",
+    "latitude": "42.288341",
+    "longitude": "-71.055218",
+    "markername": "yellow",
+    "opts": {
+        "title": "With Children's Flowers"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "211/0",
+    "latitude": "42.300079",
+    "longitude": "-71.113578",
+    "markername": "yellow",
+    "opts": {
+        "title": "Untitled (eyes)"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "310/0",
+    "latitude": "42.316502",
+    "longitude": "-71.101651",
+    "markername": "orange",
+    "opts": {
+        "title": "Ellis Mendell Elementary School Gateway Fence"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "229/0",
+    "latitude": "42.345334",
+    "longitude": "-70.954202",
+    "markername": "pink",
+    "opts": {
+        "title": "Native American Memorial"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "276/0",
+    "latitude": "42.325384",
+    "longitude": "-71.075201",
+    "markername": "orange",
+    "opts": {
+        "title": "Roxbury Friendship Fence"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "341/0",
+    "latitude": "42.282929",
+    "longitude": "-71.158382",
+    "markername": "pink",
+    "opts": {
+        "title": "Constant"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "301/0",
+    "latitude": "42.383088",
+    "longitude": "-71.029731",
+    "markername": "orange",
+    "opts": {
+        "title": "Steel Life on Chelsea Creek"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "347/0",
+    "latitude": "42.328045",
+    "longitude": "-71.092529",
+    "markername": "pink",
+    "opts": {
+        "title": "Alvah Kittredge Park"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "143/0",
+    "latitude": "42.374786",
+    "longitude": "-71.060225",
+    "markername": "orange",
+    "opts": {
+        "title": "Charlestown Civil War Memorial"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "306/0",
+    "latitude": "42.340829",
+    "longitude": "-71.081233",
+    "markername": "orange",
+    "opts": {
+        "title": "Honor Roll Mural"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "245/0",
+    "latitude": "42.363586",
+    "longitude": "-71.033006",
+    "markername": "lblue",
+    "opts": {
+        "title": "International HarborArts Outdoor Gallery at Boston Harbor Shipyard"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "342/0",
+    "latitude": "42.352384",
+    "longitude": "-71.067300",
+    "markername": "pink",
+    "opts": {
+        "title": "Poe Project"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "255/0",
+    "latitude": "42.355063",
+    "longitude": "-71.059324",
+    "markername": "yellow",
+    "opts": {
+        "title": "Summer in the City "
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "258/0",
+    "latitude": "42.350371",
+    "longitude": "-71.106550",
+    "markername": "orange",
+    "opts": {
+        "title": "Free at Last "
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "259/0",
+    "latitude": "42.352284",
+    "longitude": "-71.126065",
+    "markername": "orange",
+    "opts": {
+        "title": "Allston Directional"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "257/0",
+    "latitude": "42.348852",
+    "longitude": "-71.100290",
+    "markername": "orange",
+    "opts": {
+        "title": "Explosion"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "260/0",
+    "latitude": "42.357624",
+    "longitude": "-71.146560",
+    "markername": "orange",
+    "opts": {
+        "title": "Zoetrope"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "261/0",
+    "latitude": "42.350243",
+    "longitude": "-71.146330",
+    "markername": "orange",
+    "opts": {
+        "title": "Harold Connolly Tribute"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "262/0",
+    "latitude": "42.346562",
+    "longitude": "-71.105272",
+    "markername": "orange",
+    "opts": {
+        "title": "Birds of Aubudon Circle"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "263/0",
+    "latitude": "42.346238",
+    "longitude": "-71.095177",
+    "markername": "orange",
+    "opts": {
+        "title": "Dream Catching: Phil David Fine Memorial"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "264/0",
+    "latitude": "42.351594",
+    "longitude": "-71.067856",
+    "markername": "orange",
+    "opts": {
+        "title": "The Emancipation Group"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "273/0",
+    "latitude": "42.318096",
+    "longitude": "-71.068275",
+    "markername": "orange",
+    "opts": {
+        "title": "A Dragon for Dorchester"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "274/0",
+    "latitude": "42.305955",
+    "longitude": "-71.094659",
+    "markername": "orange",
+    "opts": {
+        "title": "Science Controlling the Forces of Steam and Electricity"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "275/0",
+    "latitude": "42.333827",
+    "longitude": "-71.104572",
+    "markername": "orange",
+    "opts": {
+        "title": "Mission Hill Bike Racks"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "277/0",
+    "latitude": "42.335089",
+    "longitude": "-71.079964",
+    "markername": "orange",
+    "opts": {
+        "title": "Airfoil / Captain David Ramsay Memorial"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "280/0",
+    "latitude": "42.368311",
+    "longitude": "-71.039607",
+    "markername": "orange",
+    "opts": {
+        "title": "Children Playing / Twirling"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "282/0",
+    "latitude": "42.286190",
+    "longitude": "-71.155222",
+    "markername": "orange",
+    "opts": {
+        "title": "Theodore Parker"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "283/0",
+    "latitude": "42.275648",
+    "longitude": "-71.157755",
+    "markername": "orange",
+    "opts": {
+        "title": "Joseph Warren"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "284/0",
+    "latitude": "42.286602",
+    "longitude": "-71.128472",
+    "markername": "orange",
+    "opts": {
+        "title": "World War I Memorial"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "285/0",
+    "latitude": "42.353748",
+    "longitude": "-71.074412",
+    "markername": "orange",
+    "opts": {
+        "title": "Governor John Winthrop"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "366/0",
+    "latitude": "42.343594",
+    "longitude": "-71.066501",
+    "markername": "orange",
+    "opts": {
+        "title": "LandWave"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "287/0",
+    "latitude": "42.376391",
+    "longitude": "-71.060541",
+    "markername": "orange",
+    "opts": {
+        "title": "Bunker Hill Monument"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "388/0",
+    "latitude": "42.352863",
+    "longitude": "-71.064948",
+    "markername": "orange",
+    "opts": {
+        "title": "Gilbert Stuart Tablet"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "289/0",
+    "latitude": "42.376148",
+    "longitude": "-71.060873",
+    "markername": "orange",
+    "opts": {
+        "title": "Colonel William Prescott"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "290/0",
+    "latitude": "42.319810",
+    "longitude": "-71.060402",
+    "markername": "orange",
+    "opts": {
+        "title": "Edward Everett"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "291/0",
+    "latitude": "42.346280",
+    "longitude": "-71.091073",
+    "markername": "orange",
+    "opts": {
+        "title": "John Boyle O'Reilly"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "299/0",
+    "latitude": "42.343487",
+    "longitude": "-71.077992",
+    "markername": "orange",
+    "opts": {
+        "title": "Emancipation"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "300/0",
+    "latitude": "42.333835",
+    "longitude": "-71.105618",
+    "markername": "yellow",
+    "opts": {
+        "title": "Skyline II"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "302/0",
+    "latitude": "42.328008",
+    "longitude": "-71.083273",
+    "markername": "orange",
+    "opts": {
+        "title": "The Word"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "339/0",
+    "latitude": "42.356360",
+    "longitude": "-71.051084",
+    "markername": "lblue",
+    "opts": {
+        "title": "Modern Dance"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "337/0",
+    "latitude": "42.322184",
+    "longitude": "-71.104331",
+    "markername": "orange",
+    "opts": {
+        "title": "Reach"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "305/0",
+    "latitude": "42.328934",
+    "longitude": "-71.085706",
+    "markername": "orange",
+    "opts": {
+        "title": "Peace Through Music"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "308/0",
+    "latitude": "42.285282",
+    "longitude": "-71.064227",
+    "markername": "orange",
+    "opts": {
+        "title": "Sleeping Moon"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "309/0",
+    "latitude": "42.307927",
+    "longitude": "-71.115387",
+    "markername": "orange",
+    "opts": {
+        "title": "Serpentine Fence"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "225/0",
+    "latitude": "42.343041",
+    "longitude": "-71.073181",
+    "markername": "yellow",
+    "opts": {
+        "title": "Big Cheers"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "226/0",
+    "latitude": "42.340043",
+    "longitude": "-71.067975",
+    "markername": "yellow",
+    "opts": {
+        "title": "Everyday is Fabulous"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "316/0",
+    "latitude": "42.357933",
+    "longitude": "-71.049539",
+    "markername": "orange",
+    "opts": {
+        "title": "Untitled Landscape"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "317/0",
+    "latitude": "42.377620",
+    "longitude": "-71.039432",
+    "markername": "orange",
+    "opts": {
+        "title": "Our Garden Mosaic Benches"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "227/0",
+    "latitude": "42.368962",
+    "longitude": "-71.040126",
+    "markername": "yellow",
+    "opts": {
+        "title": "Natural Growth"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "320/0",
+    "latitude": "42.368419",
+    "longitude": "-71.038695",
+    "markername": "orange",
+    "opts": {
+        "title": "Conmocion"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "321/0",
+    "latitude": "42.354094",
+    "longitude": "-71.061860",
+    "markername": "yellow",
+    "opts": {
+        "title": "Boston Rocks"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "325/0",
+    "latitude": "42.357632",
+    "longitude": "-71.137891",
+    "markername": "yellow",
+    "opts": {
+        "title": "Art Deco Red Tree Cottage Landscape Fantasy"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "326/0",
+    "latitude": "42.313068",
+    "longitude": "-71.113944",
+    "markername": "yellow",
+    "opts": {
+        "title": "Albino Squirrel"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "279/0",
+    "latitude": "42.294882",
+    "longitude": "-71.104760",
+    "markername": "orange",
+    "opts": {
+        "title": "Randidge Memorial/Grief"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "278/0",
+    "latitude": "42.294905",
+    "longitude": "-71.105082",
+    "markername": "orange",
+    "opts": {
+        "title": "Milmore Memorial / Death Staying the Hand of the Sculptor"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "329/0",
+    "latitude": "42.260718",
+    "longitude": "-71.122581",
+    "markername": "yellow",
+    "opts": {
+        "title": "Dell"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "331/0",
+    "latitude": "42.355195",
+    "longitude": "-71.054015",
+    "markername": "yellow",
+    "opts": {
+        "title": "Pop Art Flowers, Etc."
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "332/0",
+    "latitude": "42.327566",
+    "longitude": "-70.983771",
+    "markername": "orange",
+    "opts": {
+        "title": "Spectacle Island Shade Shelter and Benches"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "220/0",
+    "latitude": "42.274018",
+    "longitude": "-71.067676",
+    "markername": "yellow",
+    "opts": {
+        "title": "Organic Birth"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "334/0",
+    "latitude": "42.337729",
+    "longitude": "-71.105163",
+    "markername": "yellow",
+    "opts": {
+        "title": "Skyline III"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "267/0",
+    "latitude": "42.313378",
+    "longitude": "-71.038681",
+    "markername": "orange",
+    "opts": {
+        "title": "The Gods"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "270/0",
+    "latitude": "42.312664",
+    "longitude": "-71.039041",
+    "markername": "orange",
+    "opts": {
+        "title": " Lobster (Ghanaian Fantasy Coffin)"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "265/0",
+    "latitude": "42.313782",
+    "longitude": "-71.042082",
+    "markername": "orange",
+    "opts": {
+        "title": "Huru"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "268/0",
+    "latitude": "42.313259",
+    "longitude": "-71.037211",
+    "markername": "orange",
+    "opts": {
+        "title": "Reclining Figure"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "271/0",
+    "latitude": "42.312910",
+    "longitude": "-71.036632",
+    "markername": "orange",
+    "opts": {
+        "title": "Simple Drawing"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "266/0",
+    "latitude": "42.314449",
+    "longitude": "-71.039808",
+    "markername": "orange",
+    "opts": {
+        "title": "Steel Worker"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "269/0",
+    "latitude": "42.311868",
+    "longitude": "-71.035994",
+    "markername": "orange",
+    "opts": {
+        "title": "Brushstroke Group"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "378/0",
+    "latitude": "42.344050",
+    "longitude": "-71.037855",
+    "markername": "lblue",
+    "opts": {
+        "title": "Arch III, Gateway: Temporary Public Art for the Boston Marine Industrial Park (BMIP) in Boston’s Innovation District"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "380/0",
+    "latitude": "42.345220",
+    "longitude": "-71.031539",
+    "markername": "lblue",
+    "opts": {
+        "title": "Moonsnails: Temporary Public Art for the Boston Marine Industrial Park (BMIP) in Boston’s Innovation District"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "381/0",
+    "latitude": "42.344183",
+    "longitude": "-71.037887",
+    "markername": "lblue",
+    "opts": {
+        "title": "Rock Lobster: Temporary Public Art for the Boston Marine Industrial Park (BMIP) in Boston’s Innovation District"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "382/0",
+    "latitude": "42.354488",
+    "longitude": "-71.052634",
+    "markername": "lblue",
+    "opts": {
+        "title": "Urban Garden: Tree of Knowledge, curated by the deCordova Sculpture Park "
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "383/0",
+    "latitude": "42.354366",
+    "longitude": "-71.052849",
+    "markername": "lblue",
+    "opts": {
+        "title": "Urban Garden: Pumpkin Series, curated by the deCordova Sculpture Park "
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "384/0",
+    "latitude": "42.354358",
+    "longitude": "-71.052900",
+    "markername": "lblue",
+    "opts": {
+        "title": "Urban Garden: Walking Flower times the Power of Five, curated by the deCordova Sculpture Park "
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "391/0",
+    "latitude": "42.356086",
+    "longitude": "-71.069226",
+    "markername": "orange",
+    "opts": {
+        "title": "Fox Hill Plaque"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "392/0",
+    "latitude": "42.357418",
+    "longitude": "-71.061802",
+    "markername": "orange",
+    "opts": {
+        "title": "Franklin Monument"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "393/0",
+    "latitude": "42.358695",
+    "longitude": "-71.053315",
+    "markername": "orange",
+    "opts": {
+        "title": "Dorothea Dix Fountain"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "394/0",
+    "latitude": "42.350235",
+    "longitude": "-71.078574",
+    "markername": "orange",
+    "opts": {
+        "title": "William Lloyd Garrison"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "395/0",
+    "latitude": "42.350346",
+    "longitude": "-71.048498",
+    "markername": "lblue",
+    "opts": {
+        "title": "Street Cathedral"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "411/0",
+    "latitude": "42.350487",
+    "longitude": "-71.083340",
+    "markername": "orange",
+    "opts": {
+        "title": "Boston Women's Memorial"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "425/0",
+    "latitude": "42.325384",
+    "longitude": "-71.075201",
+    "markername": "orange",
+    "opts": {
+        "title": "La Allianza Hispana / Roxbury Friendship Fence"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "430/0",
+    "latitude": "42.322184",
+    "longitude": "-71.104331",
+    "markername": "orange",
+    "opts": {
+        "title": "Reach"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "434/0",
+    "latitude": "42.359981",
+    "longitude": "-71.056690",
+    "markername": "orange",
+    "opts": {
+        "title": "Samuel Adams"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "440/0",
+    "latitude": "42.352162",
+    "longitude": "-71.070680",
+    "markername": "orange",
+    "opts": {
+        "title": "William Ellery Channing"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "478/0",
+    "latitude": "42.339387",
+    "longitude": "-71.073303",
+    "markername": "orange",
+    "opts": {
+        "title": "Twin Fountains"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "485/0",
+    "latitude": "42.360700",
+    "longitude": "-71.129286",
+    "markername": "yellow",
+    "opts": {
+        "title": "Umbrella Squids"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "487/0",
+    "latitude": "42.353541",
+    "longitude": "-71.068610",
+    "markername": "orange",
+    "opts": {
+        "title": "Marvin E. Goody Memorial"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "488/0",
+    "latitude": "42.349936",
+    "longitude": "-71.068212",
+    "markername": "orange",
+    "opts": {
+        "title": "Cocoanut Grove Fire Memorial"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "489/0",
+    "latitude": "42.361509",
+    "longitude": "-71.062499",
+    "markername": "orange",
+    "opts": {
+        "title": "Cardinal Cushing "
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "490/0",
+    "latitude": "42.312743",
+    "longitude": "-71.087396",
+    "markername": "orange",
+    "opts": {
+        "title": "Unity Fence"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "496/0",
+    "latitude": "42.335932",
+    "longitude": "-71.150737",
+    "markername": "yellow",
+    "opts": {
+        "title": "Time Circles II"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "500/0",
+    "latitude": "42.361685",
+    "longitude": "-71.057304",
+    "markername": "orange",
+    "opts": {
+        "title": "Benjamin Franklin Tablet"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "501/0",
+    "latitude": "42.358924",
+    "longitude": "-71.056405",
+    "markername": "orange",
+    "opts": {
+        "title": "The Bunch of Grapes Tavern"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "502/0",
+    "latitude": "42.360058",
+    "longitude": "-71.056234",
+    "markername": "orange",
+    "opts": {
+        "title": "Caleb Strong"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "504/0",
+    "latitude": "42.325015",
+    "longitude": "-71.089407",
+    "markername": "orange",
+    "opts": {
+        "title": "Cedar Square Medallions"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "505/0",
+    "latitude": "42.352415",
+    "longitude": "-71.069830",
+    "markername": "orange",
+    "opts": {
+        "title": "Charles Sumner"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "507/0",
+    "latitude": "42.360050",
+    "longitude": "-71.056298",
+    "markername": "orange",
+    "opts": {
+        "title": "Covering the Retreat from Breed's Hill"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "508/0",
+    "latitude": "42.328347",
+    "longitude": "-71.103044",
+    "markername": "orange",
+    "opts": {
+        "title": "Daniel Weldon Memorial"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "509/0",
+    "latitude": "42.360066",
+    "longitude": "-71.056298",
+    "markername": "orange",
+    "opts": {
+        "title": "Eagle Tablet"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "510/0",
+    "latitude": "42.360066",
+    "longitude": "-71.056223",
+    "markername": "orange",
+    "opts": {
+        "title": "Edward Everett"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "511/0",
+    "latitude": "42.360090",
+    "longitude": "-71.056223",
+    "markername": "orange",
+    "opts": {
+        "title": "General Joseph Warren"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "512/0",
+    "latitude": "42.360098",
+    "longitude": "-71.056201",
+    "markername": "orange",
+    "opts": {
+        "title": "General Washington at Dorchester Heights"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "513/0",
+    "latitude": "42.360066",
+    "longitude": "-71.056244",
+    "markername": "orange",
+    "opts": {
+        "title": "Henry Wilson"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "515/0",
+    "latitude": "42.360042",
+    "longitude": "-71.056244",
+    "markername": "orange",
+    "opts": {
+        "title": "Governor John Albion Andrew"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "516/0",
+    "latitude": "42.360066",
+    "longitude": "-71.056266",
+    "markername": "orange",
+    "opts": {
+        "title": "John Hancock"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "517/0",
+    "latitude": "42.360066",
+    "longitude": "-71.056255",
+    "markername": "orange",
+    "opts": {
+        "title": "John Hancock Tavern"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "518/0",
+    "latitude": "42.360082",
+    "longitude": "-71.056244",
+    "markername": "orange",
+    "opts": {
+        "title": "John Quincy Adams"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "519/0",
+    "latitude": "42.360098",
+    "longitude": "-71.056234",
+    "markername": "orange",
+    "opts": {
+        "title": "Major General Henry Knox"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "520/0",
+    "latitude": "42.358702",
+    "longitude": "-71.057382",
+    "markername": "orange",
+    "opts": {
+        "title": "The Old State House Clock"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "521/0",
+    "latitude": "42.360098",
+    "longitude": "-71.056191",
+    "markername": "orange",
+    "opts": {
+        "title": "Peter Faneuil"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "522/0",
+    "latitude": "42.304134",
+    "longitude": "-71.062360",
+    "markername": "orange",
+    "opts": {
+        "title": "Ronan Park Tablet"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "524/0",
+    "latitude": "42.326983",
+    "longitude": "-71.082423",
+    "markername": "orange",
+    "opts": {
+        "title": "Stone Garden"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "525/0",
+    "latitude": "42.316049",
+    "longitude": "-71.066124",
+    "markername": "orange",
+    "opts": {
+        "title": "Strand Theatre Marquee"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "527/0",
+    "latitude": "42.360058",
+    "longitude": "-71.056212",
+    "markername": "orange",
+    "opts": {
+        "title": "Abraham Lincoln sketch"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "528/0",
+    "latitude": "42.360050",
+    "longitude": "-71.056223",
+    "markername": "orange",
+    "opts": {
+        "title": "Abraham Lincoln"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "506/0",
+    "latitude": "42.360066",
+    "longitude": "-71.056223",
+    "markername": "orange",
+    "opts": {
+        "title": "Commodore Edward Preble"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "530/0",
+    "latitude": "42.359688",
+    "longitude": "-71.056818",
+    "markername": "pink",
+    "opts": {
+        "title": "Wind Wind Wind"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "533/0",
+    "latitude": "42.359297",
+    "longitude": "-71.052006",
+    "markername": "lblue",
+    "opts": {
+        "title": "Lighthouse"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "534/0",
+    "latitude": "42.356952",
+    "longitude": "-71.051183",
+    "markername": "lblue",
+    "opts": {
+        "title": "Ice Chimes"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "535/0",
+    "latitude": "42.351484",
+    "longitude": "-71.059313",
+    "markername": "lblue",
+    "opts": {
+        "title": "FIGMENT Lights"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "536/0",
+    "latitude": "42.348917",
+    "longitude": "-71.071756",
+    "markername": "pink",
+    "opts": {
+        "title": "UPLIFT"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "538/0",
+    "latitude": "42.307356",
+    "longitude": "-71.120725",
+    "markername": "orange",
+    "opts": {
+        "title": "Arnold Arboretum"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "539/0",
+    "latitude": "42.360248",
+    "longitude": "-71.057333",
+    "markername": "orange",
+    "opts": {
+        "title": "Boston Immigrants Plaque"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "540/0",
+    "latitude": "42.361496",
+    "longitude": "-71.057184",
+    "markername": "orange",
+    "opts": {
+        "title": "Boston Stone"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "560/0",
+    "latitude": "42.333772",
+    "longitude": "-71.024165",
+    "markername": "orange",
+    "opts": {
+        "title": "South Boston World War II Memorial"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "543/0",
+    "latitude": "42.371751",
+    "longitude": "-71.061866",
+    "markername": "orange",
+    "opts": {
+        "title": "Charlestown World War II Memorial"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "544/0",
+    "latitude": "42.290342",
+    "longitude": "-71.071157",
+    "markername": "orange",
+    "opts": {
+        "title": "Codman Square"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "545/0",
+    "latitude": "42.317003",
+    "longitude": "-71.065063",
+    "markername": "orange",
+    "opts": {
+        "title": "Dorchester Burial Ground Tablets"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "547/0",
+    "latitude": "42.310482",
+    "longitude": "-71.086736",
+    "markername": "orange",
+    "opts": {
+        "title": "Family Circle"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "548/0",
+    "latitude": "42.325364",
+    "longitude": "-71.094471",
+    "markername": "orange",
+    "opts": {
+        "title": "The Siege of Boston"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "549/0",
+    "latitude": "42.365381",
+    "longitude": "-71.052698",
+    "markername": "orange",
+    "opts": {
+        "title": "The New North Meeting House"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "550/0",
+    "latitude": "42.352376",
+    "longitude": "-71.062617",
+    "markername": "orange",
+    "opts": {
+        "title": "Liberty Tree Plaque"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "551/0",
+    "latitude": "42.360003",
+    "longitude": "-71.056201",
+    "markername": "orange",
+    "opts": {
+        "title": "Frederick Douglass"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "552/0",
+    "latitude": "42.354701",
+    "longitude": "-71.068851",
+    "markername": "orange",
+    "opts": {
+        "title": "Flagpole Base"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "553/0",
+    "latitude": "42.310672",
+    "longitude": "-71.048670",
+    "markername": "orange",
+    "opts": {
+        "title": "Rock Hill (now Savin Hill)"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "555/0",
+    "latitude": "42.326618",
+    "longitude": "-71.075556",
+    "markername": "orange",
+    "opts": {
+        "title": "Dudley Town Park Common Bollards"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "556/0",
+    "latitude": "42.350108",
+    "longitude": "-71.147686",
+    "markername": "orange",
+    "opts": {
+        "title": "Edward M. Cunningham Memorial"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "557/0",
+    "latitude": "42.320097",
+    "longitude": "-70.927734",
+    "markername": "orange",
+    "opts": {
+        "title": "Edward Rowe Snow Memorial"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "558/0",
+    "latitude": "42.338126",
+    "longitude": "-71.049775",
+    "markername": "orange",
+    "opts": {
+        "title": "South Boston Street Clock"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "559/0",
+    "latitude": "42.338126",
+    "longitude": "-71.049775",
+    "markername": "orange",
+    "opts": {
+        "title": "South Boston Street Clock"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "561/0",
+    "latitude": "42.355866",
+    "longitude": "-71.062451",
+    "markername": "pink",
+    "opts": {
+        "title": "Cathedral Church of St. Paul Pediment"
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "562/0",
+    "latitude": "42.360863",
+    "longitude": "-71.053224",
+    "markername": "pink",
+    "opts": {
+        "title": "Armenian Heritage Park                             "
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}, {
+    "rmt": "563/0",
+    "latitude": "42.353547",
+    "longitude": "-71.062660",
+    "markername": "orange",
+    "opts": {
+        "title": "Paramount LED Windows "
+    },
+    "text": "<div class=\"gmap-popup\"></div>"
+}]

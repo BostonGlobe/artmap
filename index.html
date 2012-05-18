@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <title>
+        </title>
+        <link rel="stylesheet" href="http://code.jquery.com/mobile/1.1.0/jquery.mobile-1.1.0.min.css" />
+        <link rel="stylesheet" href="mobile.css" />
+        <style>
+            /* App custom styles */
+        </style>
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js">
+        </script>
+        <script src="http://code.jquery.com/mobile/1.1.0/jquery.mobile-1.1.0.min.js">
+        </script>
+    </head>
+    <body>
+        <div data-role="page" id="page1">
+            <div data-theme="c" data-role="header">
+                <h3>
+                    Boston Art
+                </h3>
+            </div>
+            <div data-role="content">
+                <ul data-role="listview" data-inset="true" data-filter="true" id="listview">
+                    <li data-role="list-divider" role="heading">
+                        Art near you
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+        <div data-role="page" id="page2">
+            <div data-theme="c" data-role="header">
+                <h3>
+                    Boston Art
+                </h3>
+            </div>
+            <div data-role="content">
+                <p>
+                    This is the second page.
+                </p>
+            </div>
+        </div>
+
+        <script>
+            $(document).ready(function() {
+                $.getJSON('/near?lat=42.383088&lon=-71.029731', function(data) {
+                    var count = 0
+                    $.each( data, function(i, res) {
+                        var list = '<li><a href="#page_' + i + '">' + res.obj.title + '</a></li>'
+                        var page = '<div data-add-back-btn="true" data-role="page" id="page_' + i + '"><div data-theme="c" data-role="header">'
+                                    + '<h3>' + res.obj.title + '</h3></div>'
+                                    + '<div data-role="content">'
+                                    + '<h3><a target="_new" href="http://publicartboston.com/node/' + res.obj.rmt + '">' + res.obj.title + '</a></h3>'
+                                    + '<h3>Artist</h3><p>' + res.obj.artist + '</p>'
+                                    + '<h3>Location</h3><p>' + res.obj.location_description + ' '
+                                    + '<a target="_new" href="http://maps.google.com/?q=' + res.obj.longitude + ',' + res.obj.latitude + '">map</a></p>'
+                                    + '<h3>Neighborhood</h3><p>' + res.obj.neighborhood + '</p>'
+                                    + '<h3>Type</h3><p>' + res.obj.discipline + '</p>'
+                                    + '<h3>Year</h3><p>' + res.obj.year + '</p>'
+                                    + '<h3>Medium</h3><p>' + res.obj.medium + '</p>'
+                                    + '<h3>Collection</h3><p>' + res.obj.collection + '</p>'
+                                    + '<h3>Funders</h3><p>' + res.obj.funders + '</p>'
+                                    + '<h3>Description</h3><p>' + res.obj.description + '</p>'
+
+                        // images
+                        $.each( res.obj.image_urls, function(i, res) {
+                            page += '<img width="100%" src="' + res + '">'
+                        })
+                        page += '</div></div>'
+                                    
+                        
+                        $("#listview").append(list)
+                        $('body').append(page)
+                    })
+
+                    $("#listview").listview('refresh')
+                })
+
+
+
+                // $("#listview").append('<li><a href="#page3">Dynamic</a></li>')
+                // $('body').append('<div data-role="page" id="page3"><div data-role="content">Hi</div></div>')
+                // $("#listview").listview('refresh')
+            })
+
+
+            // $(document).ready(function() {
+            //     navigator.geolocation.getCurrentPosition(handle_geolocation_query);  
+            // })
+
+            // function handle_geolocation_query(position){  
+            //     alert('Lat: ' + position.coords.latitude + ' ' +  
+            //           'Lon: ' + position.coords.latitude);  
+            // }  
+        </script>
+    </body>
+</html>
